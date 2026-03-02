@@ -11,4 +11,4 @@ Desenvolvedor Full Stack em constante aprendizado e apaixonado por tecnologia.
 
 ## 📫 Como me encontrar
 - **LinkedIn:** [(https://www.linkedin.com/in/sergio-paschoalini-363949350/)]
-- **Portfólio:** [(https://shpj-developer.github.io/Meu-portfolio/)]
+- **Portfólio:** [Clique ao lado para entrar no site](https://shpj-developer.github.io/Meu-portifolio/)
