@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Sergio Henrique Paschoalini Junior 👋
 
-<!--
-**SHPJ-developer/SHPJ-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack em constante aprendizado e apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+## 🛠 Habilidades
+- **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS
+- **Backend:** (R, Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Estatísticas do Sergio](https://github-readme-stats.vercel.app/api?username=SHPJ-developer&show_icons=true&theme=tokyonight)
+
+## 📫 Como me encontrar
+- **LinkedIn:** [(https://www.linkedin.com/in/sergio-paschoalini-363949350/)]
+- **Portfólio:** [link-para-o-site-que-criamos]
