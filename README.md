@@ -4,7 +4,7 @@ Sou um desenvolvedor entusiasta de *Python*, focado em escrever código limpo e 
 
 ## 🛠 Habilidades
 - **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS
-- **Backend:** (R, Python e PHP)
+- **Backend:** (R, Python e N8N)
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do Sergio](https://github-readme-stats.vercel.app/api?username=SHPJ-developer&show_icons=true&theme=tokyonight)
