@@ -10,5 +10,5 @@ Sou um desenvolvedor entusiasta de *Python*, focado em escrever código limpo e 
 ![Estatísticas do Sergio](https://github-readme-stats.vercel.app/api?username=SHPJ-developer&show_icons=true&theme=tokyonight)
 
 ## 📫 Como me encontrar
-- **LinkedIn:** [(https://www.linkedin.com/in/sergio-paschoalini-363949350/)]
+- **LinkedIn:** [Sergio paschoalini](https://www.linkedin.com/in/sergio-paschoalini-363949350/)
 - **Portfólio:** [Clique aqui para entrar no site](https://shpj-developer.github.io/Meu-portifolio/)
