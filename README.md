@@ -1,6 +1,6 @@
 # Olá, eu sou o Sergio Henrique Paschoalini Junior 👋
 
-Desenvolvedor Full Stack em constante aprendizado e apaixonado por tecnologia.
+Sou um desenvolvedor entusiasta do ecossistema **Python**, focado em escrever código limpo e funcional. Embora Python seja minha "casa", gosto de explorar diferentes linguagens para ampliar minha visão técnica.
 
 ## 🛠 Habilidades
 - **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS
