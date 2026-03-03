@@ -1,10 +1,10 @@
 # Olá, eu sou o Sergio Henrique Paschoalini Junior 👋
 
-Sou um desenvolvedor entusiasta do ecossistema **Python**, focado em escrever código limpo e funcional. Embora Python seja minha "casa", gosto de explorar diferentes linguagens para ampliar minha visão técnica.
+Sou um desenvolvedor entusiasta de *Python*, focado em escrever código limpo e funcional. Embora Python seja minha praia, gosto de explorar diferentes linguagens para ampliar meus conhecimentos.
 
 ## 🛠 Habilidades
 - **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS
-- **Backend:** (R, Python)
+- **Backend:** (R, Python e PHP)
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do Sergio](https://github-readme-stats.vercel.app/api?username=SHPJ-developer&show_icons=true&theme=tokyonight)
